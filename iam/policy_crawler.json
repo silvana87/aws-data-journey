@@ -1,0 +1,41 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "S3Access",
+            "Effect": "Allow",
+            "Action": [
+                "s3:GetObject",
+                "s3:PutObject",
+                "s3:ListBucket",
+                "s3:GetBucketLocation"
+            ],
+            "Resource": [
+                "arn:aws:s3:::e-commerce-datalake-demo",
+                "arn:aws:s3:::e-commerce-datalake-demo/*"
+            ]
+        },
+        {
+            "Sid": "GlueFullAccess",
+            "Effect": "Allow",
+            "Action": "glue:*",
+            "Resource": "*"
+        },
+        {
+            "Sid": "LakeFormationAccess",
+            "Effect": "Allow",
+            "Action": "lakeformation:GetDataAccess",
+            "Resource": "*"
+        },
+        {
+            "Sid": "CloudWatchLogs",
+            "Effect": "Allow",
+            "Action": [
+                "logs:CreateLogGroup",
+                "logs:CreateLogStream",
+                "logs:PutLogEvents"
+            ],
+            "Resource": "arn:aws:logs:*:*:*"
+        }
+    ]
+}

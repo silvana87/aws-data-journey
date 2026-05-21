@@ -1,0 +1,51 @@
+order_id,fecha,cliente,producto,categoria,cantidad,precio_unitario,ciudad,departamento,metodo_pago
+ORD-001,2026-05-01,Juan Pérez,Laptop HP 15,Tecnología,1,2899.90,Lima,Lima,Tarjeta de crédito
+ORD-002,2026-05-01,María García,Mouse Logitech,Tecnología,2,79.90,Arequipa,Arequipa,Yape
+ORD-003,2026-05-01,Carlos López,Escritorio de madera,Muebles,1,599.00,Lima,Lima,Transferencia
+ORD-004,2026-05-01,Ana Torres,Teclado mecánico,Tecnología,1,249.90,Cusco,Cusco,Plin
+ORD-005,2026-05-01,Pedro Ramírez,Silla ergonómica,Muebles,1,899.00,Trujillo,La Libertad,Tarjeta de crédito
+ORD-006,2026-05-02,Lucía Mendoza,Monitor Samsung 24,Tecnología,1,1199.00,Lima,Lima,Tarjeta de débito
+ORD-007,2026-05-02,Roberto Silva,Audífonos Sony,Tecnología,3,189.90,Arequipa,Arequipa,Yape
+ORD-008,2026-05-02,Sofía Vargas,Lámpara LED,Hogar,2,45.90,Lima,Lima,Efectivo
+ORD-009,2026-05-02,Diego Flores,Webcam HD,Tecnología,1,159.00,Piura,Piura,Plin
+ORD-010,2026-05-02,Carmen Ruiz,Estante metálico,Muebles,1,349.00,Cusco,Cusco,Transferencia
+ORD-011,2026-05-03,Fernando Castro,Tablet Samsung,Tecnología,1,1499.00,Lima,Lima,Tarjeta de crédito
+ORD-012,2026-05-03,Patricia Díaz,Organizador de escritorio,Hogar,4,29.90,Trujillo,La Libertad,Yape
+ORD-013,2026-05-03,Miguel Ángel Rojas,Impresora Epson,Tecnología,1,699.00,Arequipa,Arequipa,Tarjeta de crédito
+ORD-014,2026-05-03,Isabel Morales,Cargador USB-C,Tecnología,5,39.90,Lima,Lima,Plin
+ORD-015,2026-05-03,Andrés Gutiérrez,Mesa plegable,Muebles,2,199.00,Chiclayo,Lambayeque,Efectivo
+ORD-016,2026-05-04,Valentina Herrera,Parlante Bluetooth,Tecnología,1,129.90,Lima,Lima,Yape
+ORD-017,2026-05-04,José Martínez,Cortina blackout,Hogar,3,89.90,Cusco,Cusco,Tarjeta de débito
+ORD-018,2026-05-04,Gabriela Núñez,SSD 1TB,Tecnología,1,289.00,Lima,Lima,Tarjeta de crédito
+ORD-019,2026-05-04,Ricardo Paredes,Alfombra decorativa,Hogar,1,159.00,Arequipa,Arequipa,Transferencia
+ORD-020,2026-05-04,Daniela Salazar,Hub USB,Tecnología,2,69.90,Trujillo,La Libertad,Plin
+ORD-021,2026-05-05,Alejandro Vega,Notebook Lenovo,Tecnología,1,3299.00,Lima,Lima,Tarjeta de crédito
+ORD-022,2026-05-05,Natalia Campos,Almohadón ergonómico,Hogar,2,79.90,Piura,Piura,Yape
+ORD-023,2026-05-05,Héctor Ríos,Mochila porta laptop,Tecnología,1,149.90,Lima,Lima,Efectivo
+ORD-024,2026-05-05,Camila Ortega,Repisa flotante,Muebles,3,59.90,Cusco,Cusco,Plin
+ORD-025,2026-05-05,Óscar Delgado,Cable HDMI 2.1,Tecnología,4,34.90,Arequipa,Arequipa,Yape
+ORD-026,2026-05-06,Laura Peña,Lámpara de pie,Hogar,1,199.00,Lima,Lima,Tarjeta de crédito
+ORD-027,2026-05-06,Martín Aguilar,Disco duro externo 2TB,Tecnología,1,329.00,Trujillo,La Libertad,Transferencia
+ORD-028,2026-05-06,Renata Jiménez,Set de toallas,Hogar,2,69.90,Lima,Lima,Yape
+ORD-029,2026-05-06,Emilio Soto,Base para monitor,Muebles,1,179.00,Chiclayo,Lambayeque,Plin
+ORD-030,2026-05-06,Valeria Cruz,Protector de pantalla,Tecnología,6,19.90,Cusco,Cusco,Efectivo
+ORD-031,2026-05-07,Francisco Ramos,Teclado inalámbrico,Tecnología,1,159.90,Lima,Lima,Tarjeta de débito
+ORD-032,2026-05-07,Mariana Luna,Cojín lumbar,Hogar,2,49.90,Arequipa,Arequipa,Yape
+ORD-033,2026-05-07,Gustavo Medina,Monitor curvo 27,Tecnología,1,1899.00,Lima,Lima,Tarjeta de crédito
+ORD-034,2026-05-07,Antonella Fuentes,Maceta decorativa,Hogar,3,35.90,Piura,Piura,Plin
+ORD-035,2026-05-07,Sebastián Torres,Memoria RAM 16GB,Tecnología,2,189.90,Cusco,Cusco,Transferencia
+ORD-036,2026-05-08,Florencia Castillo,Escritorio ajustable,Muebles,1,1299.00,Lima,Lima,Tarjeta de crédito
+ORD-037,2026-05-08,Tomás Navarro,Mousepad XL,Tecnología,1,59.90,Trujillo,La Libertad,Yape
+ORD-038,2026-05-08,Bianca Espinoza,Cortinas de baño,Hogar,2,39.90,Lima,Lima,Efectivo
+ORD-039,2026-05-08,Ignacio Vera,Adaptador DisplayPort,Tecnología,3,49.90,Arequipa,Arequipa,Plin
+ORD-040,2026-05-08,Catalina Mora,Perchero de pared,Muebles,2,89.90,Chiclayo,Lambayeque,Tarjeta de débito
+ORD-041,2026-05-09,Rodrigo Ponce,Laptop ASUS ROG,Tecnología,1,4599.00,Lima,Lima,Tarjeta de crédito
+ORD-042,2026-05-09,Jimena Acosta,Funda de cojín,Hogar,4,25.90,Cusco,Cusco,Yape
+ORD-043,2026-05-09,Pablo Herrera,UPS 1000VA,Tecnología,1,399.00,Arequipa,Arequipa,Transferencia
+ORD-044,2026-05-09,Victoria Lozano,Espejo decorativo,Hogar,1,249.00,Lima,Lima,Plin
+ORD-045,2026-05-09,Eduardo Chávez,Router WiFi 6,Tecnología,1,349.90,Trujillo,La Libertad,Tarjeta de crédito
+ORD-046,2026-05-10,Antonella Quispe,Silla de comedor,Muebles,4,189.90,Lima,Lima,Tarjeta de crédito
+ORD-047,2026-05-10,Matías Huamán,Webcam 4K,Tecnología,1,299.00,Cusco,Cusco,Yape
+ORD-048,2026-05-10,Romina Palacios,Vela aromática set,Hogar,3,45.90,Piura,Piura,Efectivo
+ORD-049,2026-05-10,Nicolás Zambrano,Cable de red Cat6 30m,Tecnología,2,49.90,Lima,Lima,Plin
+ORD-050,2026-05-10,Luciana Benítez,Librero de 5 niveles,Muebles,1,459.00,Arequipa,Arequipa,Tarjeta de crédito
