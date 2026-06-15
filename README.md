@@ -5,7 +5,7 @@
 
 ## 🎯 ¿Qué es esto?
 
-Un laboratorio práctico que simula un caso real de **e-commerce** en Perú. Vas a construir un pipeline de datos completo en AWS — desde un CSV con órdenes de venta hasta consultas SQL que generan insights de negocio — sin levantar un solo servidor.
+Un laboratorio práctico que simula un caso real de un  **e-commerce** . Vas a construir un pipeline de datos completo en AWS — desde un CSV con órdenes de venta hasta consultas SQL que generan insights de negocio — sin levantar un solo servidor.
 
 ```
 📦 CSV de ventas  →  🪣 Amazon S3  →  🤖 Glue Crawler  →  🔍 Amazon Athena  →  📊 Insights
